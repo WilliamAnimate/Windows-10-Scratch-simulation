@@ -3,8 +3,8 @@ Documentation for the windows 10 scratch project
  	| Contributers |
 | ----------- |
 | [William_Animate](https://scratch.mit.edu/users/william_animate/) |
-| [Tristan Poland](https://scratch.mit.edu/users/programer126/) |
-|blablablahello |
+| [Tristan Poland AKA Programer126](https://scratch.mit.edu/users/programer126/) |
+| [blablablahello](https://scratch.mit.edu/users/blablablahello/) |
 
 ##notes from the author / contributers
 
