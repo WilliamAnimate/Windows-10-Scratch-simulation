@@ -13,5 +13,6 @@ when the final version comes out GUI Design will be better, also this is the ear
 
 
 ## Project Updates
+
 **william_animate:** the development process is not looking good because it's already 10 MB and i haven't coded anything (other then 2 "uninteractive" apps
 
