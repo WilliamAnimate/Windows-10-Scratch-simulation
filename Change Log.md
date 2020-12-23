@@ -26,3 +26,8 @@
    - Capable of live-rendering smaller 3D environments (Under 2 GB)
    - Capable of rendering in full-color sRGB, or Greyscale
    - Auot-quit feature implimented if render > 30 GB
+
+(Tristan Poland) added a new text engine
+    Major changes:
+    
+   - no major changes, just capable of displaying white text
