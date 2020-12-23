@@ -22,7 +22,7 @@
    (Tristan Poland) added a new render engine
     Major changes:
     
-   -More efficient with resources
-   -capable of live-rendering smaller 3D environments (Under 2 GB)
-   -Capable of rendering in full-color sRGB, or Greyscale
-   -Auot-quit feature implimented if render > 30 GB
+   - More efficient with resources
+   - Capable of live-rendering smaller 3D environments (Under 2 GB)
+   - Capable of rendering in full-color sRGB, or Greyscale
+   - Auot-quit feature implimented if render > 30 GB
