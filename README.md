@@ -2,8 +2,8 @@
 Documentation for the windows 10 scratch project
  	| Contributers |
 | ----------- |
-| William_Animate |
-| Tristan Poland (AKA: Programer126) |
+| [William_Animate](https://scratch.mit.edu/users/william_animate/) |
+| [Tristan Poland](https://scratch.mit.edu/users/programer126/) |
 |blablablahello |
 
 ##notes from the author / contributers
