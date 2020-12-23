@@ -2,7 +2,7 @@
 
 [12/23/2020] 
 
-(Tristan Poland) Windows start menue internal version updated to v2.5.3
+(Tristan Poland) Windows start menu internal version updated to v2.5.3
     Major changes:
 
    - Top picks for you menu added
@@ -11,3 +11,5 @@
    - Sprite count lowered with cloning (better performance)
    - Improved animation
 
+(Tristan Poland) Windows start menu internal version updated to v2.5.3
+    Major changes:
