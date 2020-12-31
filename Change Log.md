@@ -1,6 +1,6 @@
 # Project Change log
 
-##[12/23/2020] 
+## [12/23/2020] 
 
 (Tristan Poland) Windows start menu internal version updated to v2.5.3
     Major changes:
@@ -32,7 +32,7 @@
     
    - no major changes, just capable of displaying white text
 
-##[12/31/2020]
+## [12/31/2020]
 
 
 (William_Animate) Core.exe, and Core.dll re-written
@@ -43,7 +43,7 @@
    - OS Code is re-organised
    
 
-##[12/31/2020]
+## [12/31/2020]
 
 
 (Tristan Poland) Added new start menu funcionality
