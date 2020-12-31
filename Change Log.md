@@ -31,3 +31,26 @@
     Major changes:
     
    - no major changes, just capable of displaying white text
+
+[12/31/2020]
+
+
+(William_Animate) Core.exe, and Core.dll re-written
+    Major changes:
+
+   - Boot glitches fixed
+   - Crash on boot finished
+   - OS Code is re-organised
+   
+
+[12/31/2020]
+
+
+(Tristan Poland) Added new start menu funcionality
+    Major changes:
+    
+   - Start menu has improved response time
+   - Windows, and window headers now have a border around the edge of 1 px
+   
+   
+   
