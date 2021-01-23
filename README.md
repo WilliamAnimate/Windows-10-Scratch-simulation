@@ -1,5 +1,3 @@
-#redstonecrafter126@gamil.com
-
 
 
 # Windows-10-Scratch-simulation
